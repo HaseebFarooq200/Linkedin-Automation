@@ -68,7 +68,7 @@ Built for developers, by developers.
 Clone the repository.
 
 ```shell
-git clone https://github.com/joshiayush/inb.git
+git clone https://github.com/HaseebFarooq200/Linkedin-Automation.git
 ```
 
 <div align="right">
